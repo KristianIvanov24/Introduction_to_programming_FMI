@@ -5,3 +5,4 @@
 - **[Тема 02](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.02)** - Низове - преговор, операции с низове.
 - **[Тема 03](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.03)** - Низове. Числа - общи задачи
 - **[Тема 04](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.04)** - Логически оператори. Условни конструкции. Задачи с условни конструкции
+- **[Тема 05](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.05)** - Циклични конструкции. Задачи с циклични конструкции
