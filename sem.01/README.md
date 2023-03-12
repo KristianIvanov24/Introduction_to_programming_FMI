@@ -114,6 +114,9 @@ print(type(x))               # str
 
 x = int(input("enter anything")) # x=12
 print(type(x))                   # int
+
+print("Hello world!", end = '') #print without a new line
+print() #if we want new line
 ```
 - **Коментари**
 ```python
