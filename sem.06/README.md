@@ -45,7 +45,7 @@ myDict['age'] = 31 # промяна на стойност на даден клю
 myDict['nationality'] = "Bulgarian" # добавяне на ключ и стойност
 ```
 
-* Методи
+* Методи <br>
 ```clear()``` - Removes all the elements from the dictionary <br>
 ```copy()``` - Returns a copy of the dictionary<br>
 ```fromkeys()``` - Returns a dictionary with the specified keys and value<br>
