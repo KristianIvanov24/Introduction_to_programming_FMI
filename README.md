@@ -7,4 +7,4 @@
 - **[Тема 04](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.04)** - Логически оператори. Условни конструкции. Задачи с условни конструкции
 - **[Тема 05](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.05)** - Циклични конструкции. Задачи с циклични конструкции
 - **[Тема 06](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.06)** - Съставни типове данни- част 1
-- - **[Тема 07](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.07)** - Съставни типове данни- част 2
+- **[Тема 07](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.07)** - Съставни типове данни- част 2
