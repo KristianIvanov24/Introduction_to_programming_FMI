@@ -24,6 +24,7 @@ while len(average_results) > 0:
 
 sorted_results = tuple(sorted_results)
 print(sorted_results)
+
 for name, time in sorted_results:
     print(f"{name}'s average result from the competition is {time} s.")
 
