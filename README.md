@@ -9,3 +9,5 @@
 - **[Тема 06](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.06)** - Съставни типове данни- част 1
 - **[Тема 07](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.07)** - Съставни типове данни- част 2
 - **[Тема 08](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.08)** - Функции
+- **[Тема 09](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.09)** - Задачи - Функции
+- **[Тема 10](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.10)** - Рекурсивни функции. Използване на рекурсия.
