@@ -12,4 +12,4 @@
 - **[Тема 09](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.09)** - Задачи - Функции
 - **[Тема 10](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.10)** - Рекурсивни функции. Използване на рекурсия.
 - **[Тема 11](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.11)** - Lambda функции. Мap, filter, reduce, zip & unzip.
-
+- **[Тема 12](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.12)** - Задачи - Функции, Рекурсия, Функционално програмиране
