@@ -19,4 +19,4 @@ for item in unique_elements_list:
 for item in unique_elements_list: 
     result_dict[item] = item*(item+1)/2
 
-print(result_dict) # 1 1
+print(result_dict)
