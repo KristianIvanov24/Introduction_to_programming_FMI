@@ -17,6 +17,6 @@
 
 
 ### Допълнителни материали
-**[Домашни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/homeworks)**
-**[Контролни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/test)**
-**[Консултации](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/consultations)**
+- **[Домашни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/homeworks)**
+- **[Контролни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/test)**
+- **[Консултации](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/consultations)**
