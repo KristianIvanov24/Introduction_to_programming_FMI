@@ -1,5 +1,6 @@
 # Увод в програмирането- спец. Математика и информатика
 
+### Материали от упражнения
 - **[Тема 00](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.00)** - Въведение в курса, езика Python и инсталиране на нужните инструменти за работа
 - **[Тема 01](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.01)** - Вградени типове данни. Променливи. Оператори.
 - **[Тема 02](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.02)** - Низове - преговор, операции с низове.
@@ -13,3 +14,9 @@
 - **[Тема 10](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.10)** - Рекурсивни функции. Използване на рекурсия.
 - **[Тема 11](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.11)** - Lambda функции. Мap, filter, reduce, zip & unzip.
 - **[Тема 12](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.12)** - Задачи - Функции, Рекурсия, Функционално програмиране
+
+
+### Допълнителни материали
+- **[Домашни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/homeworks)**
+- **[Контролни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/tests)**
+- **[Консултации](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/consultations)**
