@@ -16,6 +16,7 @@
 - **[Тема 12](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.12)** - Задачи - Функции, Рекурсия, Функционално програмиране
 - **[Тема 13](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.13)** - Въведение в ООП
 - **[Тема 14](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.14)** - Принципи в ООП
+- **[Тема 15](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.15)** - Задачи - ООП
 
 
 ### Допълнителни материали
