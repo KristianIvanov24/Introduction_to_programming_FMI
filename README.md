@@ -18,6 +18,7 @@
 - **[Тема 14](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.14)** - Принципи в ООП
 - **[Тема 15](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.15)** - Задачи - ООП
 - **[Тема 16](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.16)** - Tипове грешки и тяхната обработка
+- **[Тема 17](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.17)** - Модули Math, Decimal и Numpy
 
 ### Допълнителни материали
 - **[Домашни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/homeworks)**
