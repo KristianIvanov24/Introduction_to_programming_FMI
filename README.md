@@ -20,6 +20,7 @@
 - **[Тема 16](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.16)** - Tипове грешки и тяхната обработка
 - **[Тема 17](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.17)** - Модули Math, Decimal и Numpy
 - **[Тема 18](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.18)** - Задачи за Numpy
+- **[Тема 19](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.19)** - Подготовка за контролно
 
 ### Допълнителни материали
 - **[Домашни](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/utils/homeworks)**
