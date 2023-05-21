@@ -1,4 +1,6 @@
-,Gender,EthnicGroup,ParentEduc,LunchType,TestPrep,MathScore,ReadingScore,WritingScore
+id,Gender,EthnicGroup,ParentEduc,LunchType,TestPrep,MathScore,ReadingScore,WritingScore
+0,female,group B,bachelor's degree,standard,none,72,72,74
+0,female,group B,bachelor's degree,standard,none,72,72,74
 0,female,group B,bachelor's degree,standard,none,72,72,74
 1,female,group C,some college,standard,completed,69,90,88
 2,female,group B,master's degree,standard,none,90,95,93
