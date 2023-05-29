@@ -24,6 +24,7 @@
 - **[Тема 20](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.20)** - Pandas
 - **[Тема 21](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.21)** - Задача Pandas
 - **[Тема 22](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.22)** - Компютърна графика чрез модула graphics.py. Създаване на диаграми с matplotlib
+- **[Тема 23](https://github.com/KristianIvanov24/Introduction_to_programming_FMI/tree/main/sem.23)** - Задачи за graphics.py и matplotlib
 
 
 ### Допълнителни материали
