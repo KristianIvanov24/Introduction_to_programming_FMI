@@ -54,9 +54,9 @@
 - Анимация на фигурите<br>
 ```py
     for i in range(100):
-    rect.move(2, 0)
-    circle.move(-1, 0)
-    time.sleep(0.05)
+        rect.move(2, 0)
+        circle.move(-1, 0)
+        time.sleep(0.05)
 ```
 - Затваряне на прозореца в края на програмата(ЗАДЪЛЖИТЕЛНО!)<br>
 ```py
